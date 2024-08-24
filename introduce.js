@@ -1,1 +1,1 @@
-console.log("We are Naizersy");
+console.log("We are Naizersy.dev");
